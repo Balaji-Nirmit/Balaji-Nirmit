@@ -4,7 +4,7 @@
 <h2>Gojo fan</h2>
 <p>and</p>
 <h2>Guido van Rossum fan also</h2>
-[![Visito(https://visitor-badge.laobi.icu/badge?page_id=Balaji-Nirmit.Balaji-Nirmit)(https://github.com/balaji-nirmit)]
+[![Visito(https://visitor-badge.laobi.icu/badge?page_id=Balaji-Nirmit.Balaji-Nirmit)](https://github.com/Balaji-Nirmit)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
 <!--
