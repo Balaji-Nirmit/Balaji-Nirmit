@@ -2,10 +2,10 @@
 <h1>こんにちは</h1>
 <div>
   <p>Myself</p>
-<h1>Nirmit Pratap Singh</h1>
-<h2>Gojo fan</h2>
-<p>and</p>
-<h2>Guido van Rossum fan also</h2>
+  <h1>Nirmit Pratap Singh</h1>
+  <p>Gojo fan</p>
+  <p>and</p>
+  <p>Guido van Rossum fan also</p>
 </div>
 <!--
 **Balaji-Nirmit/Balaji-Nirmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
