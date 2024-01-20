@@ -1,5 +1,5 @@
 ![satoru_gojo_4k_hd_jujutsu_kaisen](https://github.com/Balaji-Nirmit/Balaji-Nirmit/assets/132046259/20b2f3b9-9e01-4383-b44d-5facc0a2edc4)
-<h1>こんにちは !<br>
+<h1>こんにちは :+1:<br>
 Nirmit Pratap Singh</h1>
 <div>
   <H1>SKILLS</H1>
