@@ -18,7 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaji-nirmit&show_icons=true&locale=en&layout=compact" alt="balaji-nirmit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji-nirmit&show_icons=true&locale=en" alt="balaji-nirmit" /></p>
-<h3 align="left">Contribution</h3>
 
 # Watch snake eating my contribution
 
