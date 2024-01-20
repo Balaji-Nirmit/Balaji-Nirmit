@@ -1,3 +1,4 @@
+![satoru_gojo_4k_hd_jujutsu_kaisen](https://github.com/Balaji-Nirmit/Balaji-Nirmit/assets/132046259/1aeecfe7-6bf4-4320-8792-057166ece2db)
 <h1 align="center">Hi 👋, I'm Nirmit Pratap Singh</h1>
 <h3 align="center">A computer science geek and Gojo Fan</h3>
 
