@@ -1,7 +1,7 @@
 ![satoru_gojo_4k_hd_jujutsu_kaisen](https://github.com/Balaji-Nirmit/Balaji-Nirmit/assets/132046259/1aeecfe7-6bf4-4320-8792-057166ece2db)
 <h1 align="center">こんにちは 👋, I'm Nirmit Pratap Singh</h1>
-<p align="right"><img src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"></p>
 <h3 align="left">A computer science geek and Gojo Fan</h3>
+<p align="right"><img src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-nirmit&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-nirmit" /> </p>
 
