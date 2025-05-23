@@ -1,5 +1,8 @@
 ![satoru_gojo_4k_hd_jujutsu_kaisen](https://github.com/Balaji-Nirmit/Balaji-Nirmit/assets/132046259/1aeecfe7-6bf4-4320-8792-057166ece2db)
 <h1 align="center">こんにちは 👋, I'm Nirmit Pratap Singh</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Doing%20it%20Solo&TextBg=false&fontSize=60&section=header"/>
+</p>
 <p align="center"><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-nirmit&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-nirmit" /> </p>
@@ -26,11 +29,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaji-nirmit&show_icons=true&locale=en&layout=compact" alt="balaji-nirmit" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji-nirmit&show_icons=true&locale=en" alt="balaji-nirmit" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-Nirmit&show_icons=true&theme=ambient_gradient&card_height=205" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-Nirmit&theme=cyber-streakglow&card_height=207" width="48%"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-Nirmit&theme=cyber-streakglow&card_height=207" width="100%"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Nirmit&layout=compact&theme=radical"/>
+</p>
 
 
 # Watch snake eating my contribution
