@@ -28,6 +28,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaji-nirmit&show_icons=true&locale=en&layout=compact" alt="balaji-nirmit" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Balaji-Nirmit&show_icons=true&theme=ambient_gradient&card_height=205" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-Nirmit&theme=cyber-streakglow&card_height=207" width="48%"/>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji-nirmit&show_icons=true&locale=en" alt="balaji-nirmit" /></p>
 
 # Watch snake eating my contribution
