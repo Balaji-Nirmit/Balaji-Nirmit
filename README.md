@@ -1,7 +1,7 @@
 ![satoru_gojo_4k_hd_jujutsu_kaisen](https://github.com/Balaji-Nirmit/Balaji-Nirmit/assets/132046259/1aeecfe7-6bf4-4320-8792-057166ece2db)
 <h1 align="center">こんにちは 👋, I'm Nirmit Pratap Singh</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Doing%20it%20Solo&TextBg=false&fontSize=60&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Doing%20it%20Solo&TextBg=false&fontSize=60&section=header&fontColor=ffffff"/>
 </p>
 <p align="center"><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>
 
