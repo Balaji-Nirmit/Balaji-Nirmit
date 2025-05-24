@@ -47,4 +47,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Balaji-Nirmit/Balaji-Nirmit/output/github-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=dattebayo&rotate=0&fontAlign=52&fontAlignY=74&section=footer&reversal=true">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=dattebayo&rotate=0&fontAlign=52&fontAlignY=74&section=footer&reversal=true">
