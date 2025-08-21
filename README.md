@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-nirmit&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-nirmit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji-nirmit" alt="balaji-nirmit" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Balaji-Nirmit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +40,13 @@
 </p>
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Balaji-Nirmit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 # Watch snake eating my contribution
 
 <picture>
@@ -48,3 +56,4 @@
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=dattebayo&rotate=0&fontAlign=52&fontAlignY=74&section=footer&reversal=true">
+
